@@ -1,0 +1,12 @@
+.carré{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+#relatif{
+    position: relative;
+    margin-top: 30px;
+    border: 2px solid black;
+}
